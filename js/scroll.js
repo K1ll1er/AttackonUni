@@ -39,5 +39,5 @@ jQuery(document).ready(function($){
             }, scroll_top_duration
         );
     });
-
+    window.scrollTo(0,0)
 });
